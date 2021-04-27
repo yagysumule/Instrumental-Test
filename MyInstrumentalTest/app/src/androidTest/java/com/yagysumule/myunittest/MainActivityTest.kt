@@ -1,4 +1,4 @@
-package com.dicoding.picodiploma.myunittest
+package com.yagysumule.myunittest
 
 import androidx.test.core.app.ActivityScenario
 import androidx.test.espresso.Espresso.onView

@@ -1,4 +1,4 @@
-package com.dicoding.picodiploma.myunittest
+package com.yagysumule.myunittest
 
 internal class MainViewModel(private val cuboidModel: CuboidModel) {
 

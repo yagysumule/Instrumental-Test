@@ -1,4 +1,4 @@
-package com.dicoding.picodiploma.myunittest
+package com.yagysumule.myunittest
 
 import android.os.Bundle
 import android.view.View

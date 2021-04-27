@@ -1,4 +1,4 @@
-package com.dicoding.picodiploma.myunittest
+package com.yagysumule.myunittest
 
 import org.junit.Before
 import org.junit.Test
