@@ -5,6 +5,7 @@ Pada codelab kali ini Anda akan menguji antar muka dari aplikasi menggunakan Esp
 
 # Skenario Pengujian
 Terdapat 4 skenario pengujian Instrumentation Testing:
+
 __1. Pengujian keliling balok.__
   * Aplikasi terbuka dan menampilkan beberapa view.
   * Memberi tindakan input pada edt_lenght, edt_width dan edt_height.
